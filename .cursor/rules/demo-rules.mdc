@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Write and edit in working-example, do not touch demo-example
+- Always check the `todo-list.md` and check any completed tasks- 
+- If you've done any code edits, run the tests (if there are any)

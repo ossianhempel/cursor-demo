@@ -1,0 +1,5 @@
+---
+description: Rules about how we want to write tests, and what dependencies to use
+globs: 
+alwaysApply: false
+---

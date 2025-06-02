@@ -1,0 +1,8 @@
+---
+description: Rules about how we want to interact with APIs and what dependencies to use
+globs: 
+alwaysApply: false
+---
+- We're fetching weather data from weatherapi.com using their api
+- Endpoint: https://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${locationQuery}
+- Use requests package to interact with external APIs
