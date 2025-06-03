@@ -2,6 +2,7 @@
 
 ## Varför Cursor? 
 - Produktivitet - AI kan skriva boilerplate och repetetiv kod åt dig -> lägg mer tid på det som skapar värde (t.ex. användning, arkitektur, flöden, beslut, logik, etc.)
+  - För Data Engineering, tänk API-connectors, schemas, tester, 
 - Lägre alternativkostnad (?) -> du kan testa saker mycket snabbare än innan -> utforska fler potentiella lösningar/frameworks/metoder, prova på saker som innan var för tidskrävande för att sätta sig in i
 - 
 
@@ -26,4 +27,8 @@
   - Överlåter beslutsfattande till AI - vilken kan funka - men inte säkert den har tillräckligt kontext för att ta rätt beslut i din situation
 - "Test-driven generation" kan vara effektivt -> 
   - Skriv eller generera tester för funktionaliteten du vill bygga, be AI köra testerna efter varje ändring så du kan ha koll på att allt fungerar 
+
+
+## Vidare läsning
+- https://dlthub.com/blog/vibe-llm
 - 
