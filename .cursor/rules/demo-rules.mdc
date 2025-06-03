@@ -3,6 +3,9 @@ description:
 globs: 
 alwaysApply: true
 ---
-- Write and edit in working-example, do not touch demo-example
-- Always check the `todo-list.md` and check any completed tasks- 
-- If you've done any code edits, run the tests (if there are any)
+- Write and edit in demo-example, do not touch working-example
+- Always check the `todo-list.md` and check any completed tasks
+- Use Pytest for testing and keep it simple
+- If you've done any code edits, run relevant tests (if there are any)
+- We're using UV for packages and setup
+- Add comments explaining what the code does, where suitable
